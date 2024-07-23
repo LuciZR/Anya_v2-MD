@@ -33,9 +33,9 @@ module.exports = {
      * thumbnails and medias
      */
     image_1: readFileSync('./lib/Assets/ZR.png'), // primary image
-    image_2: readFileSync('./lib/Assets/image_2.jpg'), // secondry image
-    imageUrl: "https://i.ibb.co/ZKKSZHT/Picsart-23-06-24-13-36-01-843.jpg", // image url, to replace to your url upload your image to https://imgbb.com
-    imageMentionUrl: "https://i.ibb.co/ZKKSZHT/Picsart-23-06-24-13-36-01-843.jpg", // image for mention reply audio media
+    image_2: "https://telegra.ph/file/9db30f0d14a6e189b771c.jpg", // secondry image
+    imageUrl: "https://telegra.ph/file/9db30f0d14a6e189b771c.jpg", // image url, to replace to your url upload your image to https://imgbb.com
+    imageMentionUrl: "https://telegra.ph/file/9db30f0d14a6e189b771c.jpg", // image for mention reply audio media
     aliveMedia: readFileSync("./lib/Assets/aliveMedia.mp4"),
     menuMedia: readFileSync('./lib/Assets/menuMedia.mp4'),
     ownerMentionMp3: readFileSync('./lib/Assets/ownerMentionMp3.mp3'),  // audio for mention reply audio media
