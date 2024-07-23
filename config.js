@@ -32,7 +32,7 @@ module.exports = {
     /**
      * thumbnails and medias
      */
-    image_1: readFileSync('./lib/Assets/menuMedia.mp4'), // primary image
+    image_1: readFileSync('./lib/Assets/ZR.png'), // primary image
     image_2: "https://telegra.ph/file/9db30f0d14a6e189b771c.jpg", // secondry image
     imageUrl: "https://telegra.ph/file/9db30f0d14a6e189b771c.jpg", // image url, to replace to your url upload your image to https://imgbb.com
     imageMentionUrl: "https://telegra.ph/file/9db30f0d14a6e189b771c.jpg", // image for mention reply audio media
