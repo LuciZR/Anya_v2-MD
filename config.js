@@ -22,7 +22,7 @@ module.exports = {
      */
     author: process.env.Author || "LuciZR",
     packname: process.env.PackName || "+918293838182",
-    socialLink: process.env.Web || "https://github.com/LuciZR",
+    socialLink: process.env.Web || "https://whatsapp.com/channel/0029Va9S1ZW17En4Yh6hz63R",
     groupLink: process.env.GcLink || "https://whatsapp.com/channel/0029Va9S1ZW17En4Yh6hz63R",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
